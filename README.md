@@ -1,3 +1,3 @@
-A test composite of a nonexistence game
+A test composite of a nonexistent game
 
 The final version is MenuV2
